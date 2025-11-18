@@ -1,0 +1,4 @@
+Ahello
+hello
+hello
+Hello, fprintf example

@@ -1,0 +1,1 @@
+This message is redirected to the file 1.txt
