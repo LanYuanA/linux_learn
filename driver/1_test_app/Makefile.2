@@ -1,0 +1,12 @@
+A := $(C)
+B = $(C)
+C = abc
+
+D = xyz
+D?= 789
+all :
+	@echo A = $(A)
+	@echo B = $(B)
+	@echo D = $(D)
+
+C += 123
